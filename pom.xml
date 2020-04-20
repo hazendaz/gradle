@@ -42,7 +42,7 @@
 
     <properties>
         <gradle.version>6.2.2</gradle.version>
-        <download-plugin.version>1.5.0</download-plugin.version>
+        <download-plugin.version>1.5.1</download-plugin.version>
     </properties>
 
     <build>
