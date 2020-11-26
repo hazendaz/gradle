@@ -1,5 +1,6 @@
-Gradle Distro
--------------
+# Gradle Distro #
+
+![Java CI](https://github.com/hazendaz/gradle/workflows/Java%20CI/badge.svg)
 
 This project makes the gradle distribution available from maven central.
 
