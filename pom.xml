@@ -34,9 +34,9 @@
     </scm>
     <distributionManagement>
         <site>
-            <id>gh-pages</id>
+            <id>gh-pages-scm</id>
             <name>Gradle Distribution Wrapper GitHub Pages</name>
-            <url>github:https://hazendaz.github.io/gradle/</url>
+            <url>scm:git:ssh://git@github.com/hazendaz/gradle.git</url>
         </site>
     </distributionManagement>
 
