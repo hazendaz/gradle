@@ -41,7 +41,7 @@
     </distributionManagement>
 
     <properties>
-        <gradle.version>7.2</gradle.version>
+        <gradle.version>7.4.2</gradle.version>
         <download-plugin.version>1.6.8</download-plugin.version>
     </properties>
 
