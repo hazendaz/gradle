@@ -11,7 +11,7 @@
 
     <groupId>com.github.hazendaz.gradle</groupId>
     <artifactId>gradle</artifactId>
-    <version>7.5</version>
+    <version>7.6-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>gradle</name>
@@ -30,7 +30,7 @@
         <connection>scm:git:ssh://git@github.com/hazendaz/gradle.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/hazendaz/gradle.git</developerConnection>
         <url>https://github.com/hazendaz/gradle</url>
-        <tag>gradle-7.5</tag>
+        <tag>HEAD</tag>
     </scm>
     <distributionManagement>
         <site>
