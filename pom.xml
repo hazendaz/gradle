@@ -11,7 +11,7 @@
 
     <groupId>com.github.hazendaz.gradle</groupId>
     <artifactId>gradle</artifactId>
-    <version>7.4.3-SNAPSHOT</version>
+    <version>7.5-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>gradle</name>
@@ -41,7 +41,7 @@
     </distributionManagement>
 
     <properties>
-        <gradle.version>7.4.2</gradle.version>
+        <gradle.version>7.5</gradle.version>
         <download-plugin.version>1.6.8</download-plugin.version>
     </properties>
 
