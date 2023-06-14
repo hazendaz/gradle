@@ -42,7 +42,7 @@
 
     <properties>
         <gradle.version>8.1.1</gradle.version>
-        <download-plugin.version>1.6.8</download-plugin.version>
+        <download-plugin.version>1.7.0</download-plugin.version>
     </properties>
 
     <build>
