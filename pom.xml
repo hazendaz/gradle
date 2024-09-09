@@ -27,7 +27,7 @@
 
     <groupId>com.github.hazendaz.gradle</groupId>
     <artifactId>gradle</artifactId>
-    <version>8.11-SNAPSHOT</version>
+    <version>8.10.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>gradle</name>
@@ -57,7 +57,7 @@
     </distributionManagement>
 
     <properties>
-        <gradle.version>8.10</gradle.version>
+        <gradle.version>8.10.1</gradle.version>
         <download-plugin.version>1.9.0</download-plugin.version>
     </properties>
 
