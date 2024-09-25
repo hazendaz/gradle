@@ -27,7 +27,7 @@
 
     <groupId>com.github.hazendaz.gradle</groupId>
     <artifactId>gradle</artifactId>
-    <version>8.10.2-SNAPSHOT</version>
+    <version>8.10.2</version>
     <packaging>pom</packaging>
 
     <name>gradle</name>
@@ -45,7 +45,7 @@
     <scm>
         <connection>scm:git:ssh://git@github.com/hazendaz/gradle.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/hazendaz/gradle.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>gradle-8.10.2</tag>
         <url>https://github.com/hazendaz/gradle</url>
     </scm>
     <distributionManagement>
