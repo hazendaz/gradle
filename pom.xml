@@ -58,7 +58,7 @@
 
     <properties>
         <gradle.version>8.10.2</gradle.version>
-        <download-plugin.version>1.9.0</download-plugin.version>
+        <download-plugin.version>1.10.0</download-plugin.version>
     </properties>
 
     <build>
