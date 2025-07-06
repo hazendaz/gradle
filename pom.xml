@@ -57,7 +57,7 @@
     </distributionManagement>
 
     <properties>
-        <gradle.version>8.14.2</gradle.version>
+        <gradle.version>8.14.3</gradle.version>
         <download-plugin.version>2.0.0</download-plugin.version>
     </properties>
 
