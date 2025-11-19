@@ -57,7 +57,7 @@
     </distributionManagement>
 
     <properties>
-        <gradle.version>9.2.0</gradle.version>
+        <gradle.version>9.2.1</gradle.version>
         <download-plugin.version>2.0.0</download-plugin.version>
     </properties>
 
