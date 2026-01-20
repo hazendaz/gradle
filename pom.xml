@@ -3,7 +3,7 @@
 
     gradle (https://github.com/hazendaz/gradle)
 
-    Copyright 2011-2025 Hazendaz.
+    Copyright 2011-2026 Hazendaz.
 
     All rights reserved. This program and the accompanying materials
     are made available under the terms of The Apache Software License,
@@ -27,7 +27,7 @@
 
     <groupId>com.github.hazendaz.gradle</groupId>
     <artifactId>gradle</artifactId>
-    <version>9.2.2-SNAPSHOT</version>
+    <version>9.3.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>gradle</name>
@@ -57,7 +57,7 @@
     </distributionManagement>
 
     <properties>
-        <gradle.version>9.2.1</gradle.version>
+        <gradle.version>9.3.0</gradle.version>
         <download-plugin.version>2.0.0</download-plugin.version>
     </properties>
 
