@@ -50,7 +50,7 @@
 
     <properties>
         <gradle.version>9.3.1</gradle.version>
-        <download-plugin.version>2.0.0</download-plugin.version>
+        <download-plugin.version>2.1.0</download-plugin.version>
     </properties>
 
     <build>
